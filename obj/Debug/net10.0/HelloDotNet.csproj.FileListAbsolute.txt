@@ -1,0 +1,14 @@
+/Users/srikanthmartha/HelloDotNet/bin/Debug/net10.0/HelloDotNet
+/Users/srikanthmartha/HelloDotNet/bin/Debug/net10.0/HelloDotNet.deps.json
+/Users/srikanthmartha/HelloDotNet/bin/Debug/net10.0/HelloDotNet.runtimeconfig.json
+/Users/srikanthmartha/HelloDotNet/bin/Debug/net10.0/HelloDotNet.dll
+/Users/srikanthmartha/HelloDotNet/bin/Debug/net10.0/HelloDotNet.pdb
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.AssemblyInfoInputs.cache
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.AssemblyInfo.cs
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.csproj.CoreCompileInputs.cache
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.dll
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/refint/HelloDotNet.dll
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.pdb
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/HelloDotNet.genruntimeconfig.cache
+/Users/srikanthmartha/HelloDotNet/obj/Debug/net10.0/ref/HelloDotNet.dll
