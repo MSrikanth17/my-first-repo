@@ -450,8 +450,6 @@ namespace CSharpTutorial
         
         // Additional method
         public void Study()
-        {
-            Console.WriteLine($"{Name} is studying {Major}.");
-        }
+      
     }
 }
