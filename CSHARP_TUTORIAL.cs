@@ -441,12 +441,7 @@ namespace CSharpTutorial
     {
         public string Major { get; set; }
         
-        // Constructor
-        public Student(string name, int age, string major) : base(name, age)
-        {
-            Major = major;
-        }
-        
+       
         // Override method (polymorphism)
         public override void Introduce()
         {
